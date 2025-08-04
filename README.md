@@ -55,7 +55,6 @@ cd July2025Cohort-Hackathon1
 
 📫 Contact
 GitHub: @VirtGITHUB1
-
 Email: tijaniridwanoluwaseun@gmail.com
 
 
