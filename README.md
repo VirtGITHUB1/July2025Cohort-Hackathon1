@@ -6,6 +6,18 @@ Welcome to my submission for the **Hackathon 1** organized by **PLP Academy (Jul
 
 Hi! I'm **Tijani Ridwan Oluwaseun**, a passionate and detail-oriented entry-level Software Engineer currently enrolled in the PLP Academy's Software Engineering Scholarship Program. My background includes UI/UX training at Product Design University (PDU) and foundational skills in HTML, CSS, and Figma.
 
+## Education & Training Background
+
+.  National Diploma (HND) in Chemistry
+  Yaba College of Technology, Lagos, Nigeria
+  Expected Completion: 2025
+.  Software Engineering Trainee
+  PLP Academy – Ongoing
+  Gaining hands-on experience in HTML, CSS, JavaScript, Git/GitHub, and other tools for web development.
+.  UI/UX Design Fundamentals
+  PDU Training Program – 2025
+  Completed basic training in user interface and user experience design, including prototyping with Figma
+
 ## 📁 Project Description
 
 This landing page showcases my personal brand, projects, skills, and background. It is built as part of the first hackathon challenge in the July 2025 PLP Cohort.
